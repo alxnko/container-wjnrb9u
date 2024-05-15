@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "alxnko",
+  "repo": "container-wjnrb9u",
+  "name": "alxnko",
+  "email": "alexnekokyn@gmail.com",
+}
